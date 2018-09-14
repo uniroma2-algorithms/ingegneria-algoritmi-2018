@@ -1,11 +1,9 @@
-> **Avviso** Vi consigliamo di portare a lezione il vostro computer.
-
-
 ## Informazioni Generali
 Questo sito è relativo alla parte pratica del corso di *Ingegneria degli Algoritmi* per l’anno accademico 2018/2019 presso l'Università degli Studi di Roma Tor Vergata.
 L’obiettivo di questa parte del corso è di fornire agli studenti le competenze di implementazione e analisi di algoritmi e strutture dati in Python.
+Qui troverete il codice e le slide presentate a lezione. *Vi consigliamo di portare a lezione il vostro computer.*
 
-Questa parte del corso è svolta dall’Ing. Ovidiu Daniel Barba e l'Ing. Luca Pepè Sciarria.
+> Questa parte del corso è svolta dall’Ing. **Ovidiu Daniel Barba** e l'Ing. **Luca Pepè Sciarria**.
 
 
 ## Orario
@@ -28,14 +26,16 @@ Vi chiediamo gentilmente di premettere nell’oggetto l’header *[IA18]*.
 ## Modalità di esame
 La prova consiste nell'implementazione in Python di soluzioni a problemi algoritmici ed influirà sul *25% del voto* in Ingegneria degli Algoritmi.
 Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslcusive*:
-* **Due prove in itinere**. di complessità media da svolgersi individualmente o preferibilmente in team (al più 3 persone).
-* **Una prova finale** di complessità elevata, da svolgersi individualmente o in team (al più 3 persone).
+* **Due prove in itinere** di media complessità.
+* **Una prova finale** di elevata complessità.
+
+**Le prove possono essere svolte individualmente o in team di al più 3 persone.**
 
 > È consigliato lo svolgimento delle prove in itinere.
 
 
 ## Calendario delle lezioni
-Il calendario è provvisorio e potrebbe subire cambiamenti durante il corso. Le lezioni di tutoraggio si terranno prevalentemente il lunedì.
+Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. Le lezioni di questa parte del corso si terranno prevalentemente il lunedì.
 
 
 | Giorno     | Argomento                            | Docente      | Materiale            |
