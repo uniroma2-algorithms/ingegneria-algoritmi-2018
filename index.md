@@ -19,8 +19,8 @@ Orario valido dal 24/09/2018 al 19/01/2019
 ## Contatti
 Vi chiediamo gentilmente di premettere nell’oggetto l’header *[IA18]*.
 
-* Ovidiu Daniel Barba: [ovidiudaniel.barba@alumni.uniroma2.eu](mailto:ovidiudaniel.barba@alumni.uniroma2.eu)
-* Luca Pepè Sciarria: [luca.pepesciarria@alumni.uniroma2.eu](mailto:luca.pepesciarria@alumni.uniroma2.eu)
+* **Ovidiu Daniel Barba** : [ovidiudaniel.barba@alumni.uniroma2.eu](mailto:ovidiudaniel.barba@alumni.uniroma2.eu)
+* **Luca Pepè Sciarria** : [luca.pepesciarria@alumni.uniroma2.eu](mailto:luca.pepesciarria@alumni.uniroma2.eu)
 
 
 ## Modalità di esame
