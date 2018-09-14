@@ -1,4 +1,4 @@
-## Informazioni Generali
+# Informazioni Generali
 Questo sito è relativo alla parte pratica del corso di *Ingegneria degli Algoritmi* per l’anno accademico 2018/2019 presso l'Università degli Studi di Roma Tor Vergata.
 L’obiettivo di questa parte del corso è di fornire agli studenti le competenze di implementazione e analisi di algoritmi e strutture dati in Python.
 Qui troverete il codice e le slide presentate a lezione. *Vi consigliamo di portare a lezione il vostro computer.*
@@ -6,7 +6,7 @@ Qui troverete il codice e le slide presentate a lezione. *Vi consigliamo di port
 > Questa parte del corso è svolta dall’Ing. **Ovidiu Daniel Barba** e l'Ing. **Luca Pepè Sciarria**.
 
 
-## Orario
+# Orario
 Orario valido dal 24/09/2018 al 19/01/2019
 
 > Lunedi dalle 14:00 alle 15:45 in Aula 4
@@ -16,14 +16,14 @@ Orario valido dal 24/09/2018 al 19/01/2019
 > Venerdi dalle 14:00 alle 15:45 in Aula 1
 
 
-## Contatti
+# Contatti
 Vi chiediamo gentilmente di premettere nell’oggetto l’header *[IA18]*.
 
 * **Ovidiu Daniel Barba** : [ovidiudaniel.barba@alumni.uniroma2.eu](mailto:ovidiudaniel.barba@alumni.uniroma2.eu)
 * **Luca Pepè Sciarria** : [luca.pepesciarria@alumni.uniroma2.eu](mailto:luca.pepesciarria@alumni.uniroma2.eu)
 
 
-## Modalità di esame
+# Modalità di esame
 La prova consiste nell'implementazione in Python di soluzioni a problemi algoritmici ed influirà sul *25% del voto* in Ingegneria degli Algoritmi.
 Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslcusive*:
 * **Due prove in itinere** di media complessità.
@@ -34,7 +34,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 > È consigliato lo svolgimento delle prove in itinere.
 
 
-## Calendario delle lezioni
+# Calendario delle lezioni
 Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. Le lezioni di questa parte del corso si terranno prevalentemente il lunedì.
 
 
@@ -60,13 +60,13 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 [1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
 [2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
 
-## Risorse
+# Risorse
 **Python** -- [download](https://www.python.org/)
 
 **PyCharm** -- [download](https://www.jetbrains.com/pycharm/) Con l'email universitaria (@students.uniroma2.eu) potete avere la licenza di JetBrains per la maggior parte dei loro prodotti.
 
 
-## Libri consigliati
+# Libri consigliati
 "Algoritmi e strutture dati", C. Demetrescu, I. Finocchi, G. F. Italiano -- [Link](https://www.amazon.it/Algoritmi-strutture-dati-Camil-Demetrescu/dp/8838664684)
 
 "Imparare Python", M. Lutz -- [Link](https://www.amazon.it/Imparare-Python-Mark-Lutz/dp/8848125956)
