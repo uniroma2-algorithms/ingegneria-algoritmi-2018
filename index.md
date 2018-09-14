@@ -2,57 +2,60 @@
 
 
 ## Informazioni Generali
-Questo sito è relativo alla parte pratica del corso di *Ingegneria degli Algoritmi* per l’anno accademico 2017/2018.
-L’obiettivo del corso è fornire agli studenti le competenze di design, analisi e implementazione di algoritmi e strutture dati in Python.
+Questo sito è relativo alla parte pratica del corso di *Ingegneria degli Algoritmi* per l’anno accademico 2018/2019 presso l'Università degli Studi di Roma Tor Vergata.
+L’obiettivo di questa parte del corso è di fornire agli studenti le competenze di implementazione e analisi di algoritmi e strutture dati in Python.
 
-Questa parte del corso è svolta  dall’Ing. Giacomo Marciani, Ing. Laura Trivelloni e Ing. Emanuele Vannacci.
+Questa parte del corso è svolta dall’Ing. Ovidiu Daniel Barba e l'Ing. Luca Pepè Sciarria.
 
 
 ## Orario
-Orario valido dal 16/10/2017 al 10/01/2018
+Orario valido dal 24/09/2018 al 19/01/2019
 
-> Lunedi dalle 14:00 alle 15:45 in B2
+> Lunedi dalle 14:00 alle 15:45 in Aula 4
 
 > Mercoledi dalle 14:00 alle 15:45 in Aula 1
 
-> Venerdi dalle 14:00 alle 15:45 in A2
+> Venerdi dalle 14:00 alle 15:45 in Aula 1
 
 
 ## Contatti
-Vi chiediamo gentilmente di premettere nell’oggetto l’header *[IA17]*.
+Vi chiediamo gentilmente di premettere nell’oggetto l’header *[IA18]*.
 
-* Giacomo Marciani: [giacomo.marciani@alumni.uniroma2.eu](mailto:giacomo.marciani@alumni.uniroma2.eu)
-* Laura Trivelloni: [laura.trivelloni@alumni.uniroma2.eu](mailto:laura.trivelloni@alumni.uniroma2.eu)
-* Emanuele Vannacci: [emanuele.vannacci@alumni.uniroma2.eu](mailto:emanuele.vannacci@alumni.uniroma2.eu)
+* Ovidiu Daniel Barba: [ovidiudaniel.barba@alumni.uniroma2.eu](mailto:ovidiudaniel.barba@alumni.uniroma2.eu)
+* Luca Pepè Sciarria: [luca.pepesciarria@alumni.uniroma2.eu](mailto:luca.pepesciarria@alumni.uniroma2.eu)
 
 
 ## Modalità di esame
 La prova consiste nell'implementazione in Python di soluzioni a problemi algoritmici ed influirà sul *25% del voto* in Ingegneria degli Algoritmi.
 Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslcusive*:
-* **Due prove in itinere**. La prima prova di bassa complessità, da svolgersi individualmente. La seconda prova di media complessità, da svolgersi individualmente o in team (al più 3 persone).
+* **Due prove in itinere**. di complessità media da svolgersi individualmente o preferibilmente in team (al più 3 persone).
 * **Una prova finale** di complessità elevata, da svolgersi individualmente o in team (al più 3 persone).
 
 > È consigliato lo svolgimento delle prove in itinere.
 
 
-## Lezioni
+## Calendario delle lezioni
+Il calendario è provvisorio e potrebbe subire cambiamenti durante il corso. Le lezioni di tutoraggio si terranno prevalentemente il lunedì.
 
-| Giorno     | Argomento                            | Docente    | Materiale            |
-|------------|--------------------------------------|------------|----------------------|
-| 16/10/2017 | Python                               | Vannacci   | [slide][1] [code][2]|
-| 23/10/2017 | Liste, Pile, Code                    | Trivelloni | -          |
-| 30/10/2017 | Algoritmi di ordinamento             | Vannacci   | -          |
-| 10/11/2017 | Algoritmi di selezione               | Trivelloni | -          |
-| 13/11/2017 | Alberi, Progetto in itinere 1        | Vannacci   | -          |
-| 20/11/2017 | Tabelle Hash                         | Trivelloni | -          |
-| 29/11/2017 | Code con priorità                    | Vannacci   | -          |
-| 04/12/2017 | Union-Find                           | Trivelloni | -          |
-| 11/12/2017 | Grafi, Visite su grafi               | Marciani   | -          |
-| 18/12/2017 | MST, Progetto in itinere 2           | Marciani   | -          |
-| 22/12/2017 | Cammini minimi, Progetto finale      | Marciani   | -          |
-| 10/01/2017 | Q&A                                  | *          | -          |
 
-(\*) tutti i tutor saranno presenti.
+| Giorno     | Argomento                            | Docente      | Materiale            |
+|------------|--------------------------------------|--------------|----------------------|
+| 1/10/2018  | Introduzione a Python                | Barba        | -          |            <!--[slide][1] [code][2]|-->
+| 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| -          |
+| 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| -          |
+| 22/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
+| 29/10/2018 | Alberi                               | Pepè Sciarria| -          |
+| 5/11/2018  | Tabelle Hash                         | Barba        | -          |
+| 12/11/2018 | Code con priorità                    | Barba        | -          |
+| 19/11/2018 | Union-Find                           | Pepè Sciarria| -          |
+| 26/11/2018 | Grafi, Visite su grafi               | Barba        | -          |
+| 3/12/2018  | Minimo Albero Ricoprente             | Barba        | -          |
+| 10/12/2018 | Cammini minimi                       | Barba        | -          |
+| 17/12/2018 | *                                    | *            | -          |
+| 7/01/2019  | *                                    | *            | -          |
+| 14/01/2019 | *                                    | *            | -          |
+
+(\*) ancora da definire.
 
 [1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
 [2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
@@ -60,48 +63,10 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 ## Risorse
 **Python** -- [download](https://www.python.org/)
 
-**PyCharm** -- [download](https://www.jetbrains.com/pycharm/)
+**PyCharm** -- [download](https://www.jetbrains.com/pycharm/) Con l'email universitaria (@students.uniroma2.eu) potete avere la licenza di JetBrains per la maggior parte dei loro prodotti.
 
 
 ## Libri consigliati
 "Algoritmi e strutture dati", C. Demetrescu, I. Finocchi, G. F. Italiano -- [Link](https://www.amazon.it/Algoritmi-strutture-dati-Camil-Demetrescu/dp/8838664684)
 
 "Imparare Python", M. Lutz -- [Link](https://www.amazon.it/Imparare-Python-Mark-Lutz/dp/8848125956)
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/uniroma2-algorithms/ingegneria-algoritmi-2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uniroma2-algorithms/ingegneria-algoritmi-2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
