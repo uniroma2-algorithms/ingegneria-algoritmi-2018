@@ -60,13 +60,13 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 [1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
 [2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
 
-# Risorse
+## Risorse
 **Python** -- [download](https://www.python.org/)
 
 **PyCharm** -- [download](https://www.jetbrains.com/pycharm/) Con l'email universitaria (@students.uniroma2.eu) potete avere la licenza di JetBrains per la maggior parte dei loro prodotti.
 
 
-# Libri consigliati
+## Libri consigliati
 "Algoritmi e strutture dati", C. Demetrescu, I. Finocchi, G. F. Italiano -- [Link](https://www.amazon.it/Algoritmi-strutture-dati-Camil-Demetrescu/dp/8838664684)
 
 "Imparare Python", M. Lutz -- [Link](https://www.amazon.it/Imparare-Python-Mark-Lutz/dp/8848125956)
