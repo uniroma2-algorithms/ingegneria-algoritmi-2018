@@ -40,7 +40,7 @@ Il calendario è provvisorio e potrebbe subire cambiamenti durante il corso. Le 
 
 | Giorno     | Argomento                            | Docente      | Materiale            |
 |------------|--------------------------------------|--------------|----------------------|
-| 1/10/2018  | Introduzione a Python                | Barba        | -          |            <!--[slide][1] [code][2]|-->
+| 1/10/2018  | Introduzione a Python                | Barba        | -          |         
 | 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| -          |
 | 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| -          |
 | 22/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
