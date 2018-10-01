@@ -1,3 +1,5 @@
+> **Avviso** Pubblicate le slide e il codice della lezione del 1/10/2018. Aggiunto anche un esempio per fare profiling di Fibonacci con cProfile e pstats
+
 # Informazioni Generali
 Questo sito è relativo alla parte pratica del corso di *Ingegneria degli Algoritmi* per l’anno accademico 2018/2019 presso l'Università degli Studi di Roma Tor Vergata.
 L’obiettivo di questa parte del corso è di fornire agli studenti le competenze di implementazione e analisi di algoritmi e strutture dati in Python.
@@ -38,10 +40,10 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. Le lezioni di questa parte del corso si terranno prevalentemente il lunedì.
 
 
-| Giorno     | Argomento                            | Docente      | Materiale            |
-|------------|--------------------------------------|--------------|----------------------|
-| 1/10/2018  | Introduzione a Python                | Barba        | -          |         
-| 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| -          |
+| Giorno     | Argomento                            | Docente      | Materiale               |
+|------------|--------------------------------------|--------------|-------------------------|
+| 1/10/2018  | Introduzione a Python                | Barba        | [slide][1] [codice][2]|         
+| 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| -                      |
 | 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| -          |
 | 22/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
 | 29/10/2018 | Alberi                               | Pepè Sciarria| -          |
@@ -57,8 +59,8 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 
 (\*) ancora da definire.
 
-[1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
-[2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
+[1]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/slide/1_python.pdf
+[2]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/1_python.zip
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
