@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# Informazioni Generali
+Questo sito è relativo alla parte pratica del corso di *Ingegneria degli Algoritmi* per l’anno accademico 2018/2019 presso l'Università degli Studi di Roma Tor Vergata.
+L’obiettivo di questa parte del corso è di fornire agli studenti le competenze di implementazione e analisi di algoritmi e strutture dati in Python.
+Qui troverete il codice e le slide presentate a lezione. *Vi consigliamo di portare a lezione il vostro computer.*
 
-You can use the [editor on GitHub](https://github.com/uniroma2-algorithms/ingegneria-algoritmi-2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> Questa parte del corso è svolta dall’Ing. **Ovidiu Daniel Barba** e l'Ing. **Luca Pepè Sciarria**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Orario
+Orario valido dal 24/09/2018 al 19/01/2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Lunedi dalle 14:00 alle 15:45 in Aula 4
 
-```markdown
-Syntax highlighted code block
+> Mercoledi dalle 14:00 alle 15:45 in Aula 1
 
-# Header 1
-## Header 2
-### Header 3
+> Venerdi dalle 14:00 alle 15:45 in Aula 1
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Contatti
+Vi chiediamo gentilmente di premettere nell’oggetto l’header *[IA18]*.
 
-**Bold** and _Italic_ and `Code` text
+* **Ovidiu Daniel Barba** : [ovidiudaniel.barba@alumni.uniroma2.eu](mailto:ovidiudaniel.barba@alumni.uniroma2.eu)
+* **Luca Pepè Sciarria** : [luca.pepesciarria@alumni.uniroma2.eu](mailto:luca.pepesciarria@alumni.uniroma2.eu)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Modalità di esame
+La prova consiste nell'implementazione in Python di soluzioni a problemi algoritmici ed influirà sul *25% del voto* in Ingegneria degli Algoritmi.
+Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslcusive*:
+* **Due prove in itinere** di media complessità.
+* **Una prova finale** di elevata complessità.
 
-### Jekyll Themes
+**Le prove possono essere svolte individualmente o in team di al più 3 persone.**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uniroma2-algorithms/ingegneria-algoritmi-2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> È consigliato lo svolgimento delle prove in itinere.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Calendario delle lezioni
+Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. Le lezioni di questa parte del corso si terranno prevalentemente il lunedì.
+
+
+| Giorno     | Argomento                            | Docente      | Materiale            |
+|------------|--------------------------------------|--------------|----------------------|
+| 1/10/2018  | Introduzione a Python                | Barba        | -          |         
+| 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| -          |
+| 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| -          |
+| 22/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
+| 29/10/2018 | Alberi                               | Pepè Sciarria| -          |
+| 5/11/2018  | Tabelle Hash                         | Barba        | -          |
+| 12/11/2018 | Code con priorità                    | Barba        | -          |
+| 19/11/2018 | Union-Find                           | Pepè Sciarria| -          |
+| 26/11/2018 | Grafi, Visite su grafi               | Barba        | -          |
+| 3/12/2018  | Minimo Albero Ricoprente             | Barba        | -          |
+| 10/12/2018 | Cammini minimi                       | Barba        | -          |
+| 17/12/2018 | *                                    | *            | -          |
+| 7/01/2019  | *                                    | *            | -          |
+| 14/01/2019 | *                                    | *            | -          |
+
+(\*) ancora da definire.
+
+[1]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
+[2]:https://github.com/utv-teaching/algorithms-engineering-2017/raw/gh-pages/code/fibonacci.zip
+
+## Risorse
+**Python** -- [download](https://www.python.org/)
+
+**PyCharm** -- [download](https://www.jetbrains.com/pycharm/) Con l'email universitaria (@students.uniroma2.eu) potete avere la licenza di JetBrains per la maggior parte dei loro prodotti.
+
+
+## Libri consigliati
+"Algoritmi e strutture dati", C. Demetrescu, I. Finocchi, G. F. Italiano -- [Link](https://www.amazon.it/Algoritmi-strutture-dati-Camil-Demetrescu/dp/8838664684)
+
+"Imparare Python", M. Lutz -- [Link](https://www.amazon.it/Imparare-Python-Mark-Lutz/dp/8848125956)
