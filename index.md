@@ -1,3 +1,5 @@
+> **Avviso** Lunedì 5 novembre avrete lezione con il professore. La nostra lezione del 5 passa al 12 novembre e avremo lezione anche mercoledì 14 novembre.
+
 > **Avviso** Pubblicate le slide e il codice della lezione del 1/10/2018. Aggiunto anche un esempio per fare profiling di Fibonacci con cProfile e pstats
 
 # Informazioni Generali
@@ -47,8 +49,8 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| -          |
 | 22/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
 | 29/10/2018 | Alberi                               | Pepè Sciarria| -          |
-| 5/11/2018  | Tabelle Hash                         | Barba        | -          |
-| 12/11/2018 | Code con priorità                    | Barba        | -          |
+| 12/11/2018 | Tabelle Hash                         | Barba        | -          |
+| 14/11/2018 | Code con priorità                    | Barba        | -          |
 | 19/11/2018 | Union-Find                           | Pepè Sciarria| -          |
 | 26/11/2018 | Grafi, Visite su grafi               | Barba        | -          |
 | 3/12/2018  | Minimo Albero Ricoprente             | Barba        | -          |
