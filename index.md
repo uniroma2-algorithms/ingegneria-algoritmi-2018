@@ -1,6 +1,8 @@
+> **Avviso** Pubblicato il codice della lezione dell'8/10/2018 relativa a liste, code e pile. I riferimenti teorici li trovate sul libro di testo, capitolo 3. La prossima lezione verterà sugli algoritmi di ordinamento visti a lezione con il prof Italiano: si consiglia di provare ad implementare gli algoritmi prima della lezione, in caso di problemi se ne discuterà nella stessa.
+
 > **Avviso** Lunedì 5 novembre avrete lezione con il professore. La nostra lezione del 5 passa al 12 novembre e avremo lezione anche mercoledì 14 novembre.
 
-> **Avviso** Pubblicate le slide e il codice della lezione del 1/10/2018. Aggiunto anche un esempio per fare profiling di Fibonacci con cProfile e pstats
+> **Avviso** Pubblicate le slide e il codice della lezione del 1/10/2018. Aggiunto anche un esempio per fare profiling di Fibonacci con cProfile e pstats.
 
 # Informazioni Generali
 Questo sito è relativo alla parte pratica del corso di *Ingegneria degli Algoritmi* per l’anno accademico 2018/2019 presso l'Università degli Studi di Roma Tor Vergata.
@@ -45,7 +47,7 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | Giorno     | Argomento                            | Docente      | Materiale               |
 |------------|--------------------------------------|--------------|-------------------------|
 | 1/10/2018  | Introduzione a Python                | Barba        | [slide][1] [codice][2]|         
-| 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| -                      |
+| 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| [codice][3] |
 | 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| -          |
 | 22/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
 | 29/10/2018 | Alberi                               | Pepè Sciarria| -          |
@@ -63,6 +65,7 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 
 [1]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/slide/1_python.pdf
 [2]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/1_python.zip
+[3]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/2_linked_ds.zip
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
