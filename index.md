@@ -1,3 +1,5 @@
+> **Avviso** Aggiunto codice sugli algoritmi di ordinamento. 
+
 > **Avviso** Calendario modificato
 
 > **Avviso** Pubblicato il codice della lezione dell'8/10/2018 relativa a liste, code e pile. I riferimenti teorici li trovate sul libro di testo, capitolo 3. La prossima lezione verterà sugli algoritmi di ordinamento visti a lezione con il prof Italiano: si consiglia di provare ad implementare gli algoritmi prima della lezione, in caso di problemi se ne discuterà nella stessa.
@@ -47,8 +49,8 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | Giorno     | Argomento                            | Docente      | Materiale               |
 |------------|--------------------------------------|--------------|-------------------------|
 | 1/10/2018  | Introduzione a Python                | Barba        | [slide][1] [codice][2]|         
-| 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| [codice][3] |
-| 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| -          |
+| 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| [codice][3]          |
+| 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| [codice][4]          |
 | 22/10/2018 | Esercizi                             | Pepè Sciarria| -          |
 | 29/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
 | 12/11/2018 | Alberi                               | Pepè Sciarria| -          |
@@ -66,7 +68,7 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 [1]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/slide/1_python.pdf
 [2]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/1_python.zip
 [3]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/2_linked_ds.zip
-
+[4]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/3_sorting.zip
 ## Risorse
 **Python** -- [download](https://www.python.org/)
 
