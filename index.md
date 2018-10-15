@@ -1,6 +1,6 @@
-> **Avviso** Pubblicato il codice della lezione dell'8/10/2018 relativa a liste, code e pile. I riferimenti teorici li trovate sul libro di testo, capitolo 3. La prossima lezione verterà sugli algoritmi di ordinamento visti a lezione con il prof Italiano: si consiglia di provare ad implementare gli algoritmi prima della lezione, in caso di problemi se ne discuterà nella stessa.
+> **Avviso** Calendario modificato
 
-> **Avviso** Lunedì 5 novembre avrete lezione con il professore. La nostra lezione del 5 passa al 12 novembre e avremo lezione anche mercoledì 14 novembre.
+> **Avviso** Pubblicato il codice della lezione dell'8/10/2018 relativa a liste, code e pile. I riferimenti teorici li trovate sul libro di testo, capitolo 3. La prossima lezione verterà sugli algoritmi di ordinamento visti a lezione con il prof Italiano: si consiglia di provare ad implementare gli algoritmi prima della lezione, in caso di problemi se ne discuterà nella stessa.
 
 > **Avviso** Pubblicate le slide e il codice della lezione del 1/10/2018. Aggiunto anche un esempio per fare profiling di Fibonacci con cProfile e pstats.
 
@@ -49,15 +49,15 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 1/10/2018  | Introduzione a Python                | Barba        | [slide][1] [codice][2]|         
 | 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| [codice][3] |
 | 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| -          |
-| 22/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
-| 29/10/2018 | Alberi                               | Pepè Sciarria| -          |
-| 12/11/2018 | Tabelle Hash                         | Barba        | -          |
-| 14/11/2018 | Code con priorità                    | Barba        | -          |
-| 19/11/2018 | Union-Find                           | Pepè Sciarria| -          |
-| 26/11/2018 | Grafi, Visite su grafi               | Barba        | -          |
-| 3/12/2018  | Minimo Albero Ricoprente             | Barba        | -          |
-| 10/12/2018 | Cammini minimi                       | Barba        | -          |
-| 17/12/2018 | *                                    | *            | -          |
+| 22/10/2018 | Esercizi                             | Pepè Sciarria| -          |
+| 29/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
+| 12/11/2018 | Alberi                               | Pepè Sciarria| -          |
+| 14/11/2018 | Tabelle Hash                         | Barba        | -          |
+| 19/11/2018 | Code con priorità                    | Pepè Sciarria| -          |
+| 26/11/2018 | Union-Find                           | Barba        | -          |
+| 3/12/2018  | Grafi, Visite su grafi               | Barba        | -          |
+| 10/12/2018 | Minimo Albero Ricoprente             | Barba        | -          |
+| 17/12/2018 | Cammini minimi                       | Barba        | -          |
 | 7/01/2019  | *                                    | *            | -          |
 | 14/01/2019 | *                                    | *            | -          |
 
