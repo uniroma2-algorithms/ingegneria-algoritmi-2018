@@ -1,3 +1,5 @@
+> **Avviso** Aggiornato il codice sul sorting in quanto era presente un errore in HeapMax.py riga 25. La riga corretta è la seguente **if (fatherId << 1) + 1 > (self.length - 1):**
+
 > **Avviso** Aggiunto codice sugli algoritmi di ordinamento. 
 
 > **Avviso** Calendario modificato
