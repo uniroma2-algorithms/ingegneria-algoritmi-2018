@@ -1,3 +1,5 @@
+> **Avviso** Calendario aggiornato
+
 > **Avviso** Aggiornato il codice sul sorting in quanto era presente un errore in HeapMax.py riga 25. La riga corretta è la seguente **if (fatherId << 1) + 1 > (self.length - 1):**
 
 > **Avviso** Aggiunto codice sugli algoritmi di ordinamento. 
@@ -54,9 +56,8 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| [codice][3]          |
 | 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| [codice][4]          |
 | 22/10/2018 | Esercizi                             | Pepè Sciarria| -          |
-| 29/10/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
-| 12/11/2018 | Alberi                               | Pepè Sciarria| -          |
-| 14/11/2018 | Tabelle Hash                         | Barba        | -          |
+| 12/11/2018 | Algoritmi di selezione, Alberi (1)   | Pepè Sciarria| -          |
+| 14/11/2018 | Alberi (2), Tabelle Hash             | Barba        | -          |
 | 19/11/2018 | Code con priorità                    | Pepè Sciarria| -          |
 | 26/11/2018 | Union-Find                           | Barba        | -          |
 | 3/12/2018  | Grafi, Visite su grafi               | Barba        | -          |
