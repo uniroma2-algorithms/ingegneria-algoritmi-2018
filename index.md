@@ -56,14 +56,14 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 8/10/2018  | Liste, Pile, Code                    | Pepè Sciarria| [codice][3]          |
 | 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| [codice][4]          |
 | 22/10/2018 | Esercizi                             | Pepè Sciarria| -          |
-| 12/11/2018 | Algoritmi di selezione, Alberi (1)   | Pepè Sciarria| -          |
-| 14/11/2018 | Alberi (2), Tabelle Hash             | Barba        | -          |
-| 19/11/2018 | Code con priorità                    | Pepè Sciarria| -          |
-| 26/11/2018 | Union-Find                           | Barba        | -          |
-| 3/12/2018  | Grafi, Visite su grafi               | Barba        | -          |
-| 10/12/2018 | Minimo Albero Ricoprente             | Barba        | -          |
-| 17/12/2018 | Cammini minimi                       | Barba        | -          |
-| 7/01/2019  | *                                    | *            | -          |
+| 12/11/2018 | Algoritmi di selezione               | Pepè Sciarria| -          |
+| 14/11/2018 | Alberi                               | Barba        | -          |
+| 19/11/2018 | Tabelle Hash                         | Pepè Sciarria| -          |
+| 26/11/2018 | Code con priorità                    | Barba        | -          |
+| 3/12/2018  | Union-Find                           | Barba        | -          |
+| 10/12/2018 | Grafi, Visite su grafi               | Barba        | -          |
+| 17/12/2018 | Minimo Albero Ricoprente             | Barba        | -          |
+| 7/01/2019  | Cammini minimi                       | Barba        | -          |
 | 14/01/2019 | *                                    | *            | -          |
 
 (\*) ancora da definire.
