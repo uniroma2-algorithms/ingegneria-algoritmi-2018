@@ -10,9 +10,9 @@
 
 """
 
-from stack.Stack import PilaListaCollegata
-from stack.Stack import PilaArrayList_dummy
-from stack.Stack import PilaArrayList
+from datastruct.Stack import PilaListaCollegata
+from datastruct.Stack import PilaArrayList_dummy
+from datastruct.Stack import PilaArrayList
 
 from time import time
 

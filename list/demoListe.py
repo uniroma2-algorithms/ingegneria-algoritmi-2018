@@ -9,8 +9,8 @@
     This module implements a usage example for LinkedList and DoubleLinkedList modules.
 """
 
-from LinkedList import ListaCollegata
-from DoubleLinkedList import ListaDoppiamenteCollegata
+from list.LinkedList import ListaCollegata
+from list.DoubleLinkedList import ListaDoppiamenteCollegata
 from time import time
 
 # to run this module directly (NOT imported in anotherone)

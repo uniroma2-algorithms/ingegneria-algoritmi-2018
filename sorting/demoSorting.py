@@ -2,8 +2,8 @@
 
 from time import time
 import random
-from __init__ import printSwitch
-import Sorting
+from sorting.__init__ import printSwitch
+import sorting.Sorting as Sorting
 
 
 # Esiste un modo migliore per passare un numero arbitrario di argomenti alle funzioni, ed un modo molto semplice per gestirli in fase di chiamata...!

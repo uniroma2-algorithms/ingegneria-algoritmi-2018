@@ -11,10 +11,7 @@
     get the first/last item, add a new item at the top/bottom, visualize the item at the top/bottom.
 """
 
-import LinkedList
-
-
-
+import list.LinkedList as LinkedList
 
 
 class DoubleRecord(LinkedList.Record):

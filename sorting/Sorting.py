@@ -1,11 +1,11 @@
 # coding: utf-8 
 
-from HeapMax import HeapMax
-from __init__ import printSwitch
-from strutture.Stack import PilaArrayList as Stack  # Local renaming. Sometimes useful! :)
+from datastruct.HeapMax import HeapMax
+from sorting.__init__ import printSwitch
+from datastruct.Stack import PilaArrayList as Stack  # Local renaming. Sometimes useful! :)
 import math
 import random
-from strutture.Queue import CodaArrayList_deque as Queue
+from datastruct.Queue import CodaArrayList_deque as Queue
 
 
 def selectionSort(l):
