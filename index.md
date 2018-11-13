@@ -61,10 +61,10 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 12/11/2018 | Algoritmi di selezione               | Pepè Sciarria| [codice][5]           |
 | 14/11/2018 | Alberi                               | Barba        | -          |
 | 19/11/2018 | Tabelle Hash                         | Pepè Sciarria| -          |
-| 26/11/2018 | Code con priorità                    | Barba        | -          |
-| 3/12/2018  | Union-Find                           | Barba        | -          |
+| 3/11/2018  | Code con priorità                    | Pepè Sciarria| -          |
+| 7/12/2018  | Union-Find                           | Barba        | -          |
 | 10/12/2018 | Grafi, Visite su grafi               | Barba        | -          |
-| 17/12/2018 | Minimo Albero Ricoprente             | Barba        | -          |
+| 12/12/2018 | Minimo Albero Ricoprente             | Barba        | -          |
 | 7/01/2019  | Cammini minimi                       | Barba        | -          |
 | 14/01/2019 | *                                    | *            | -          |
 
