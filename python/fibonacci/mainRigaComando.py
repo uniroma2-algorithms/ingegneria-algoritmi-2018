@@ -15,7 +15,7 @@
 """
 
 import sys
-import fibonacci
+import python.fibonacci.fibonacci as fibonacci
 import time
 
 

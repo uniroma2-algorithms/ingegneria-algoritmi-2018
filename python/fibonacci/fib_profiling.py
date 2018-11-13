@@ -9,7 +9,7 @@
 """
 import pstats
 import cProfile
-import fibonacci
+import python.fibonacci.fibonacci as fibonacci
 
 fibNumber = 35                      # fibonacci number used
 statsFileName = "fib_stats"         # statistics output names
