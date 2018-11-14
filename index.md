@@ -1,3 +1,7 @@
+> **Progetto Midterm** Aggiunta la traccia del primo progetto in itinere.
+
+> **Avviso** Aggiunto codice sulla parte dei Dizionari e Alberi.
+
 > **Avviso** Aggiunto il codice sugli algoritmi di selezione. Per comodità è stato inserito nel file .zip anche il codice sull'ordinamento per avitare problemi con gli import.
 
 > **Avviso** Calendario aggiornato
@@ -48,6 +52,13 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 > È consigliato lo svolgimento delle prove in itinere.
 
 
+# Progetti
+* Primo progetto in itinere:
+    * [traccia][7]
+    * iscriversi al [form][8] entro il **1 Dicembre 2018**
+    * consegnare il progetto entro il **14 Dicembre 2018**
+
+
 # Calendario delle lezioni
 Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. Le lezioni di questa parte del corso si terranno prevalentemente il lunedì.
 
@@ -59,7 +70,7 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 15/10/2018 | Algoritmi di ordinamento             | Pepè Sciarria| [codice][4]          |
 | 22/10/2018 | Esercizi                             | Pepè Sciarria| -          |
 | 12/11/2018 | Algoritmi di selezione               | Pepè Sciarria| [codice][5]           |
-| 14/11/2018 | Alberi                               | Barba        | -          |
+| 14/11/2018 | Alberi                               | Barba        | [codice][6]          |
 | 19/11/2018 | Tabelle Hash                         | Pepè Sciarria| -          |
 | 3/11/2018  | Code con priorità                    | Pepè Sciarria| -          |
 | 7/12/2018  | Union-Find                           | Barba        | -          |
@@ -75,7 +86,10 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 [3]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/2_linked_ds.zip
 [4]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/3_sorting.zip
 [5]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/4_selection.zip
+[6]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/5_dictionarytrees.zip
 
+[7]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/projec_1_IA_18_19.pdf
+[8]:https://docs.google.com/forms/d/e/1FAIpQLSfrvVRh2l89icwf4x-eX1QY1RYOrqzxzYCXi8tTIc0P2RYm8A/viewform
 ## Risorse
 **Python** -- [download](https://www.python.org/)
 
