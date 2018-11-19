@@ -1,3 +1,5 @@
+> **PROGETTO** Era presente un errore nella traccia del primo progetto nella definizione di B_d e B_{d+1} (è n < min ed n >= max). Pubblicata la traccia corretta.
+
 > **Progetto Midterm** Aggiunta la traccia del primo progetto in itinere.
 
 > **Avviso** Aggiunto codice sulla parte dei Dizionari e Alberi.
