@@ -1,3 +1,5 @@
+> **Avviso** Aggiunto codice priority queue.
+
 > **Avviso** Aggiunto codice sulle tabelle hash.
 
 > **PROGETTO** Era presente un errore nella traccia del primo progetto nella definizione di B_d e B_{d+1} (è n < min ed n >= max). Pubblicata la traccia corretta.
@@ -76,7 +78,7 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 12/11/2018 | Algoritmi di selezione               | Pepè Sciarria| [codice][5]           |
 | 14/11/2018 | Alberi                               | Barba        | [codice][6]          |
 | 19/11/2018 | Tabelle Hash                         | Pepè Sciarria| [codice][9]          |
-| 3/11/2018  | Code con priorità                    | Pepè Sciarria| -          |
+| 3/11/2018  | Code con priorità                    | Pepè Sciarria| [codice][10]          |
 | 7/12/2018  | Union-Find                           | Barba        | -          |
 | 10/12/2018 | Grafi, Visite su grafi               | Barba        | -          |
 | 12/12/2018 | Minimo Albero Ricoprente             | Barba        | -          |
@@ -96,6 +98,8 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 [8]:https://docs.google.com/forms/d/e/1FAIpQLSfrvVRh2l89icwf4x-eX1QY1RYOrqzxzYCXi8tTIc0P2RYm8A/viewform
 
 [9]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/6_hash.zip
+[10]: https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/7%20-%20priorityQueue.zip
+
 ## Risorse
 **Python** -- [download](https://www.python.org/)
 
