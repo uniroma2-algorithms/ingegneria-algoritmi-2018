@@ -1,3 +1,7 @@
+> **Avviso** Aggiunte slide e codice su Iterator, Generator e Decorator
+
+> **Avviso** Aggiunto codice union find
+
 > **Avviso** Aggiunto codice priority queue.
 
 > **Avviso** Aggiunto codice sulle tabelle hash.
@@ -79,11 +83,11 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 14/11/2018 | Alberi                               | Barba        | [codice][6]          |
 | 19/11/2018 | Tabelle Hash                         | Pepè Sciarria| [codice][9]          |
 | 3/11/2018  | Code con priorità                    | Pepè Sciarria| [codice][10]          |
-| 7/12/2018  | Union-Find                           | Barba        | -          |
-| 10/12/2018 | Grafi, Visite su grafi               | Barba        | -          |
-| 12/12/2018 | Minimo Albero Ricoprente             | Barba        | -          |
-| 7/01/2019  | Cammini minimi                       | Barba        | -          |
-| 14/01/2019 | *                                    | *            | -          |
+| 7/12/2018  | Union-Find                           | Barba        | [codice][11]          |
+| 10/12/2018 | Python - Iterator, Generator, Decorator| Barba      |[slide][13] [codice][12] |
+| 12/12/2018 | Grafi, Visite su grafi            | Barba        | -          |
+| 7/01/2019  | Minimo Albero Ricoprente                    | Barba        | -          |
+| 14/01/2019 | Cammini Minimi (?)                  | Barba            | -          |
 
 (\*) ancora da definire.
 
@@ -99,6 +103,9 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 
 [9]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/6_hash.zip
 [10]: https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/7%20-%20priorityQueue.zip
+[11]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/8%20-%20unionFind%20.zip
+[12]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/9%20-%20advanced_python.zip
+[13]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/slide/9_advanced_python.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
