@@ -1,3 +1,7 @@
+> **PROGETTO** Aggiunta la traccia del secondo progetto
+
+> **Avviso** Aggiunto codice su Grafi e visite sui grafi
+
 > **Avviso** Aggiunte slide e codice su Iterator, Generator e Decorator
 
 > **Avviso** Aggiunto codice union find
@@ -39,9 +43,9 @@ Orario valido dal 24/09/2018 al 19/01/2019
 
 > Lunedi dalle 14:00 alle 15:45 in Aula 4
 
-> Mercoledi dalle 14:00 alle 15:45 in Aula 1
+> Mercoledi dalle 14:00 alle 15:45 in Aula A4
 
-> Venerdi dalle 14:00 alle 15:45 in Aula 1
+> Venerdi dalle 14:00 alle 15:45 in Aula A2
 
 
 # Contatti
@@ -67,6 +71,10 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
     * [traccia][7]
     * iscriversi al [form][8] entro il **1 Dicembre 2018**
     * consegnare il progetto entro il **14 Dicembre 2018**
+* Secondo progetto in itinere:
+    * [traccia][15]
+    * iscriversi al [form][8] entro il **31 Dicembre 2018** solo se cambia la composizione del gruppo del primo progetto
+    * consegnare il progetto entro il **14 Gennaio 2019**
 
 
 # Calendario delle lezioni
@@ -85,7 +93,7 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 3/11/2018  | Code con priorità                    | Pepè Sciarria| [codice][10]          |
 | 7/12/2018  | Union-Find                           | Barba        | [codice][11]          |
 | 10/12/2018 | Python - Iterator, Generator, Decorator| Barba      |[slide][13] [codice][12] |
-| 12/12/2018 | Grafi, Visite su grafi            | Barba        | -          |
+| 12/12/2018 | Grafi, Visite su grafi               | Barba        | [codice][14]          |
 | 7/01/2019  | Minimo Albero Ricoprente                    | Barba        | -          |
 | 14/01/2019 | Cammini Minimi (?)                  | Barba            | -          |
 
@@ -106,6 +114,8 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 [11]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/8%20-%20unionFind%20.zip
 [12]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/9%20-%20advanced_python.zip
 [13]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/slide/9_advanced_python.pdf
+[14]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/10%20-%20Graph.zip
+[15]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/project_2_IA_18_19.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)

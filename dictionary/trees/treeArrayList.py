@@ -10,7 +10,8 @@
     una lista
 """
 from dictionary.trees.tree import Tree
-
+from datastruct.Stack import PilaArrayList as Pila
+from datastruct.Queue import CodaArrayList_deque as Queue
 
 class TALNode:
     """
@@ -69,6 +70,40 @@ class TreeArrayList(Tree):
 
     def sonsOf(self, node):
         return node.sons
+
+    def DFS(self):
+        """
+        Permette di restituire una lista di elementi ottenuta da una visita
+        in profondità dell'albero.
+        :return: list nodi
+        """
+        res = []
+        stack = Pila()
+        if self.root is not None:
+            stack.push(self.root)
+        while not stack.isEmpty():
+            current = stack.pop()
+            res.append(current.info)
+            for i in range(len(current.sons) - 1, -1, -1):
+                stack.push(current.sons[i])
+        return res
+
+    def BFS(self):
+        """
+        Permette di restituire una lista di elementi ottenuta da una visita
+        in ampiezza dell'albero.
+        :return: lista nodi
+        """
+        res = []
+        q = Queue()
+        if self.root is not None:
+            q.enqueue(self.root)
+        while not q.isEmpty():
+            current = q.dequeue()
+            res.append(current.info)
+            for s in current.sons:
+                q.enqueue(s)
+        return res
 
     """
         ESERCIZIO:

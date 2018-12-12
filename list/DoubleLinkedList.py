@@ -77,6 +77,25 @@ class ListaDoppiamenteCollegata(LinkedList.ListaCollegata):
         else:
             self.last = rec.prev
 
+    def __len__(self):
+        size = 0
+        curr = self.first
+        while curr is not None:
+            size += 1
+            curr = curr.next
+        return size
+
+    def __str__(self):
+        s = "["
+        current = self.first
+        while current is not None:
+            if len(s) > 1:
+                s += ", "
+            s += str(current.elem)
+            current = current.next
+        s += "]"
+        return s
+
 
 # to run this module directly (NOT imported in another one)
 if __name__ == "__main__":

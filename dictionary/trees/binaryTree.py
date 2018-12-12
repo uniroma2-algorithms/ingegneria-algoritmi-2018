@@ -8,8 +8,9 @@
     Questo modulo contiene implementazione di alberi binari
 """
 
-from datastruct.Stack import PilaArrayList
 from dictionary.trees.tree import Tree as Tree
+from datastruct.Stack import PilaArrayList as Pila
+from datastruct.Queue import CodaArrayList_deque as Queue
 
 
 class BinaryNode:
@@ -80,7 +81,7 @@ class BinaryTree(Tree):
         :return: numero di nodi del sottoalbero radicato in node
         """
         res = []
-        stack = PilaArrayList()
+        stack = Pila()
         if node is not None:
             stack.push(node)
         while not stack.isEmpty():
@@ -197,7 +198,7 @@ class BinaryTree(Tree):
         """
         Permette di stampare l'albero. Per farlo si usa una pila di appoggio
         """
-        stack = PilaArrayList()
+        stack = Pila()
         if self.root is not None:
             stack.push([self.root, 0])  # pila di liste di due elementi [il nodo, il livello occupato dal nodo]
             print("-- Tree --")
@@ -214,6 +215,44 @@ class BinaryTree(Tree):
             if current[0].leftSon is not None:
                 stack.push([current[0].leftSon, level + 1])
         print("-- Tree End -- ")
+
+    def DFS(self):
+        """
+        Permette di restituire una lista di elementi ottenuta da una visita
+        in profondità dell'albero.
+        :return: list nodi
+        """
+        res = []
+        stack = Pila()
+        if self.root is not None:
+            stack.push(self.root)
+        while not stack.isEmpty():
+            current = stack.pop()
+            res.append(current.info)
+            if current.rightSon is not None:
+                stack.push(current.rightSon)
+            if current.leftSon is not None:
+                stack.push(current.leftSon)
+        return res
+
+    def BFS(self):
+        """
+        Permette di restituire una lista di elementi ottenuta da una visita
+        in ampiezza dell'albero.
+        :return: lista nodi
+        """
+        res = []
+        q = Queue()
+        if self.root is not None:
+            q.enqueue(self.root)
+        while not q.isEmpty():
+            current = q.dequeue()
+            res.append(current.info)
+            if current.leftSon is not None:
+                q.enqueue(current.leftSon)
+            if current.rightSon is not None:
+                q.enqueue(current.rightSon)
+        return res
 
 
 if __name__ == "__main__":
