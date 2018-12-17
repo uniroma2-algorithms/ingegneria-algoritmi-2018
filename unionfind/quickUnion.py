@@ -155,7 +155,8 @@ class QuickUnionBalancedPathSplitting(QuickUnionBalanced):
     Rende i nodi dei livelli 3 in giù figli dei propri nonni
     """
     def findRoot(self, node):
-        while node.father is not None:
+        while node.father is not None and node.father.father is not None:
             node, node.father = node.father, node.father.father
         return node
+
 
