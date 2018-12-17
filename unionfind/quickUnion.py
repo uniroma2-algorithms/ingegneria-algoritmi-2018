@@ -156,7 +156,6 @@ class QuickUnionBalancedPathSplitting(QuickUnionBalanced):
     """
     def findRoot(self, node):
         while node.father is not None and node.father.father is not None:
-            node, node.father = node.father, node.father.father
+            node.father, node = node.father.father, node.father
         return node
-
 
