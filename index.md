@@ -1,3 +1,5 @@
+> **AVVISO** Sono disponibili i [risultati][16] del progetto di midterm
+
 > **PROGETTO** Aggiunta la traccia del secondo progetto
 
 > **Avviso** Aggiunto codice su Grafi e visite sui grafi
@@ -71,6 +73,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
     * [traccia][7]
     * iscriversi al [form][8] entro il **1 Dicembre 2018**
     * consegnare il progetto entro il **14 Dicembre 2018**
+    * [risultati][16]
 * Secondo progetto in itinere:
     * [traccia][15]
     * iscriversi al [form][8] entro il **31 Dicembre 2018** solo se cambia la composizione del gruppo del primo progetto
@@ -116,6 +119,7 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 [13]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/slide/9_advanced_python.pdf
 [14]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/10%20-%20Graph.zip
 [15]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/project_2_IA_18_19.pdf
+[16]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/Voti_Midterm_Progetto.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
