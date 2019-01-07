@@ -105,12 +105,42 @@ class TreeArrayList(Tree):
                 q.enqueue(s)
         return res
 
-    """
-        ESERCIZIO:
-        
-        COMPLETARE LA CLASSE IMPLEMENTANDO I RIMANENTI METODI
-        DELLA CLASSE PADRE TREE
-    """
+    def foundNodeByElem(self, elem):
+        """
+        Visita DFS per cercare un nodo che contenga l'indice richiesto.
+        :param elem: da cercare
+        :return: nodo
+        """
+        stack = Pila()
+        if self.root is not None:
+            stack.push(self.root)
+        while not stack.isEmpty():
+            current = stack.pop()
+            if elem == current.info:
+                return current
+            for i in range(len(current.sons)):
+                stack.push(current.sons[i])
+        return None
+
+    def print(self):
+        """
+        Permette di stampare l'albero. Per farlo si usa una pila di appoggio
+        """
+        stack = Pila()
+        if self.root is not None:
+            stack.push([self.root, 0])  # pila di liste di due elementi [il nodo, il livello occupato dal nodo]
+            print("-- Tree --")
+        else:
+            print("Empty tree!")
+            return
+        while not stack.isEmpty():
+            current = stack.pop()
+            level = current[1]
+            print("|---" * level + str(current[0].info))
+            for son in current[0].sons:
+                stack.push([son, level + 1])
+
+        print("-- Tree End -- ")
 
 
 if __name__ == "__main__":

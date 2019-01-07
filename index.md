@@ -1,3 +1,7 @@
+> **PROGETTO** Aggiunta la traccia del progetto finale 
+
+> **Avviso** Aggiunto codice su minimo albero ricoprente e cammini minimi
+
 > **AVVISO** Sono disponibili i [risultati][16] del progetto di midterm
 
 > **PROGETTO** Aggiunta la traccia del secondo progetto
@@ -69,6 +73,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 
 
 # Progetti
+
 * Primo progetto in itinere:
     * [traccia][7]
     * iscriversi al [form][8] entro il **1 Dicembre 2018**
@@ -78,7 +83,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
     * [traccia][15]
     * iscriversi al [form][8] entro il **31 Dicembre 2018** solo se cambia la composizione del gruppo del primo progetto
     * consegnare il progetto entro il **14 Gennaio 2019**
-
+* Progetto finale:
+    * [traccia][18]
 
 # Calendario delle lezioni
 Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. Le lezioni di questa parte del corso si terranno prevalentemente il lunedì.
@@ -97,8 +103,8 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 | 7/12/2018  | Union-Find                           | Barba        | [codice][11]          |
 | 10/12/2018 | Python - Iterator, Generator, Decorator| Barba      |[slide][13] [codice][12] |
 | 12/12/2018 | Grafi, Visite su grafi               | Barba        | [codice][14]          |
-| 7/01/2019  | Minimo Albero Ricoprente                    | Barba        | -          |
-| 14/01/2019 | Cammini Minimi (?)                  | Barba            | -          |
+| 7/01/2019  | Minimo Albero Ricoprente - Cammini Minimi | Barba        | [codice][17]          |
+| 14/01/2019 | -                  | Barba            | -          |
 
 (\*) ancora da definire.
 
@@ -120,7 +126,8 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 [14]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/10%20-%20Graph.zip
 [15]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/project_2_IA_18_19.pdf
 [16]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/Voti_Midterm_Progetto.pdf
-
+[17]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/11_MST_ShortestPaths.zip
+[18]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/project_final_IA_18_19.pdf
 ## Risorse
 **Python** -- [download](https://www.python.org/)
 

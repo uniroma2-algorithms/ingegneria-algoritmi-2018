@@ -73,6 +73,11 @@ class PQbinaryHeap:
         self.moveDown(last)
         #del self.heap[self.length]
 
+    def popMin(self):
+        pq_node = self.findMin()
+        self.deleteMin()
+        return pq_node
+
     def decreaseKey(self, node, nKey):
         node.key = nKey
         self.moveUp(node)
