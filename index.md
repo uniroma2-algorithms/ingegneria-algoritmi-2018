@@ -85,6 +85,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
     * consegnare il progetto entro il **14 Gennaio 2019**
 * Progetto finale:
     * [traccia][18]
+    * consegnare il progetto **almeno 10 giorni** prima dell'appello di verbalizzazione in cui si intende concludere l'esame.
 
 # Calendario delle lezioni
 Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. Le lezioni di questa parte del corso si terranno prevalentemente il lunedì.
@@ -127,7 +128,7 @@ Il calendario è *provvisorio* e potrebbe subire cambiamenti durante il corso. L
 [15]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/project_2_IA_18_19.pdf
 [16]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/Voti_Midterm_Progetto.pdf
 [17]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/codice/11_MST_ShortestPaths.zip
-[18]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/project_final_IA_1819.pdf
+[18]:https://raw.githubusercontent.com/uniroma2-algorithms/ingegneria-algoritmi-2018/content/project_final_IA_18_19.pdf
 ## Risorse
 **Python** -- [download](https://www.python.org/)
 
